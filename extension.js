@@ -19,12 +19,8 @@ function activate(context) {
         if (!editor) {
             return; // No open text editor
         }
-
         const doc = editor.document;
-        
-
         const text = doc.getText();
-
         const firstLine = doc.lineAt(0);
         const lastLine = doc.lineAt(doc.lineCount - 1);
         const textRange = new vscode.Range(0, 

@@ -20,7 +20,13 @@
                 "command": "extension.debugchop",
                 "title": "Debug Chop"
             }
-        ]
+        ],
+        "keybindings": [{
+            "command": "extension.debugchop",
+            "key": "ctrl+shift+;",
+            "mac": "cmd+shift+;",
+            "when": "editorTextFocus"
+        }]
     },
     "scripts": {
         "postinstall": "node ./node_modules/vscode/bin/install",
