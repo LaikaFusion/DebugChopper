@@ -2,7 +2,7 @@
     "name": "debugchopper",
     "displayName": "debugchopper",
     "description": "Removes Console.logs and Debuggers from JS and JSX files",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "Laika Fusion",
     "engines": {
         "vscode": "^1.26.0"
