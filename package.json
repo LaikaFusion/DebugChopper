@@ -1,8 +1,9 @@
 {
     "name": "debugchopper",
-    "displayName": "debugchopper",
-    "description": "Removes Console.logs and Debuggers from JS and JSX files",
-    "version": "0.3.0",
+    "displayName": "Debug Chopper",
+    "description": "Removes Console.logs and Debuggers",
+    "icon": "images/icon.png",
+    "version": "0.4.2",
     "publisher": "laikaf",
     "engines": {
         "vscode": "^1.26.0"
