@@ -29,6 +29,10 @@
             "when": "editorTextFocus"
         }]
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/LaikaFusion/DebugChopper"
+    },
     "scripts": {
         "postinstall": "node ./node_modules/vscode/bin/install",
         "test": "node ./node_modules/vscode/bin/test"
