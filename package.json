@@ -3,7 +3,7 @@
     "displayName": "Debug Chopper",
     "description": "Removes Console.logs and Debuggers",
     "icon": "images/icon.png",
-    "version": "0.4.2",
+    "version": "0.4.3",
     "publisher": "laikaf",
     "engines": {
         "vscode": "^1.26.0"
