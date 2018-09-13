@@ -24,8 +24,8 @@
         ],
         "keybindings": [{
             "command": "extension.debugchop",
-            "key": "ctrl+shift+;",
-            "mac": "cmd+shift+;",
+            "key": "ctrl+shift+'",
+            "mac": "cmd+shift+'",
             "when": "editorTextFocus"
         }]
     },
